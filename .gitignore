@@ -1,0 +1,6 @@
+.idea/*
+.mvn/*
+*.md
+mvnw
+mvnw.cmd
+target/*
